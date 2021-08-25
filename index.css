@@ -12,7 +12,7 @@
 }
 .coder ul a{
     text-decoration:none;
-    color: black;
+    color:black;
 }
 .coder ul a::after{
     content: '';
@@ -25,4 +25,10 @@
 }
 .coder ul a:hover::after{
     width: 60px;
+}
+h6{
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
